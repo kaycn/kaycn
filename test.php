@@ -6,6 +6,7 @@
  * Time: 上午8:08
  */
 // php 异常和引用
+header("Content-type:text/html;charset=uft-8");
 $dsn = 'mysql:dbname=KaycnCom;host:127.0.0.1';
 
 $user = 'root';
